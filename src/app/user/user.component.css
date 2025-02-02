@@ -1,0 +1,11 @@
+section{
+    max-width: 500px;
+    color: black;
+    padding: 40px;
+    margin: 40px auto;
+    border: 2px solid black;
+}
+
+img{
+    text-align: center;
+}
